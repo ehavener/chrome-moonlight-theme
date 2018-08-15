@@ -1,0 +1,64 @@
+{
+   "description": "A dark theme for all nighters.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA11L0Gnc11u6Unn8bcW6QNMMY5KGa1cOF762Okn40XfbZlT11Zt8r8xtDaCviOsllIDRBFLxr2IcMmlnANwqLCkAGF099Fo+NznMyKLFzF9c98sD1019I0LN/xsvMyMnIHtyqOKtPKb7t/cI8z3VnvgXEhR4Ar2i0JiaD7Dnc/XeDj+EVxoVnqH2cB7l7xHeknb2S8RNaARHGCgJ3lW8ffJVUoWpiaDULuFzgMwGizT4cu43D+CVRoQFzV1sGHfG0xdz3UlLiuVb4SEYCKpJDS1iKbDSZ+EXvt3PmGU8CobErMSTqRnrpHgAz32Mdh9zvv+xCz3G+YG6MfuvaBtwGMwIDAQAB",
+   "manifest_version": 2,
+   "name": "Moonlight Theme",
+   "theme": {
+      "colors": {
+         "frame": [ 26, 29, 52 ],
+         "frame_inactive": [ 28, 31, 49 ],
+         "frame_incognito": [ 23, 26, 27 ],
+         "frame_incognito_inactive": [ 110, 110, 110 ],
+          "toolbar": [
+            37,
+            43,
+            72
+          ],
+          "tab_text": [
+            255,
+            255,
+            255
+          ],
+          "tab_background_text": [
+            255,
+            255,
+            255
+          ],
+          "bookmark_text": [
+            255,
+            255,
+            255
+          ],
+          "ntp_text": [
+            255,
+            255,
+            255
+          ],
+          "ntp_link_underline": [
+            255,
+            0,
+            0
+          ],
+          "ntp_header": [
+            255,
+            0,
+            0
+          ],
+          "ntp_background": [ 55, 55, 55 ]
+      },
+      "images": {
+         "theme_ntp_background": "images/theme_ntp_background.png"
+      },
+      "properties": {
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+        "buttons": [ 0, 0, 1 ],
+        "frame": [-1, -1, -1],
+        "background_tab": [-1, -1, 0.75]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.0"
+}

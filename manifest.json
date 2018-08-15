@@ -1,0 +1,108 @@
+{
+   "description": "A dark theme for all nighters.",
+   "manifest_version": 2,
+   "name": "Moonlight Theme",
+   "theme": {
+      "colors": {
+        "frame": [ 
+          83, 
+          95, 
+          171 
+        ],
+        "frame_inactive": [ 
+          28,
+          31,
+          49 
+        ],
+        "toolbar": [
+          37,
+          43,
+          72
+        ],
+        "tab_text": [
+          255,
+          255,
+          255
+        ],
+        "tab_background_text": [
+          127,
+          146,
+          161
+        ],
+        "bookmark_text": [
+          127,
+          146,
+          161
+        ],
+        "ntp_text": [
+          255,
+          255,
+          255
+        ],
+        "ntp_link_underline": [
+          255,
+          0,
+          0
+        ],
+        "ntp_header": [
+          255,
+          0,
+          0
+        ],
+        "ntp_background": [ 
+          28,
+          32,
+          50
+        ],
+        "frame_incognito": [
+          23,
+          26,
+          27
+        ],
+        "frame_incognito_inactive": [
+          110,
+          110,
+          110
+        ]
+      },
+      "images": {
+        "theme_toolbar": "images/theme-ntp-background.png",
+        "theme_frame": "images/theme-ntp-background.png",
+        "theme_frame_inactive": "images/theme-ntp-background.png",
+        "theme_ntp_background": "images/theme-ntp-background.png"
+      },
+      "properties": {
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+        "frame": [
+          2.19,
+          0.75,
+          0.15
+        ],
+        "background_tab": [
+          2.19,
+          0.75,
+          0.5
+        ],
+        "buttons": [
+          0,
+          0,
+          0.8
+        ],
+        "frame_inactive": [
+          0,
+          1,
+          0
+        ],
+        "toolbar_inactive": [
+          2.19,
+          1,
+          1
+        ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.2"
+}
