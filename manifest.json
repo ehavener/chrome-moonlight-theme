@@ -11,7 +11,7 @@
       "images": {
         "theme_ntp_background": "images/foreground-gradient.png",
         "theme_toolbar": "images/foreground-gradient.png",
-        "theme_frame": "images/foreground-gradient.png",
+        "theme_frame": "images/foreground-gradient.png"
       },
       "colors": {
         "frame": [ 
