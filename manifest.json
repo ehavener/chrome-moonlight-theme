@@ -10,11 +10,8 @@
    "theme": {
       "images": {
         "theme_ntp_background": "images/foreground-gradient.png",
-        "theme_ntp_background_incognito": "images/foreground-gradient-incognito.png",
         "theme_toolbar": "images/foreground-gradient.png",
-        "theme_toolbar_incognito": "images/foreground-gradient-incognito.png",
         "theme_frame": "images/foreground-gradient.png",
-        "theme_frame_incognito": "images/foreground-gradient-incognito.png"
       },
       "colors": {
         "frame": [ 
@@ -142,5 +139,5 @@
       }
    },
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.1.2"
+   "version": "0.1.3"
 }
