@@ -1,7 +1,7 @@
 {
-   "description": "A dark theme for all nighters.",
+   "description": "A midnight blue theme for all nighters.",
    "manifest_version": 2,
-   "name": "Moonlight Theme",
+   "name": "Moonlight Material Theme",
    "theme": {
       "images": {
         "theme_ntp_background": "images/foreground-gradient.png",
