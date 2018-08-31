@@ -5,8 +5,11 @@
    "theme": {
       "images": {
         "theme_ntp_background": "images/foreground-gradient.png",
+        "theme_ntp_background_incognito": "images/foreground-gradient-incognito.png",
         "theme_toolbar": "images/foreground-gradient.png",
-        "theme_frame": "images/foreground-gradient.png"
+        "theme_toolbar_incognito": "images/foreground-gradient-incognito.png",
+        "theme_frame": "images/foreground-gradient.png",
+        "theme_frame_incognito": "images/foreground-gradient-incognito.png"
       },
       "colors": {
         "frame": [ 
@@ -65,9 +68,9 @@
           161
         ],
         "background_tab": [
-          255,
-          255,
-          255
+          0,
+          0,
+          100
         ],
         "background_tab_incognito": [
           0,
